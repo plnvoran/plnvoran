@@ -2,10 +2,7 @@
 
  <h2 align="center"> My name is Denis Litinskiy. I am a QA engineer.</h2>
 
-  Started working in QA 
-<p  align="center">
-  <code><img width="5%" title="IntelliJ IDEA" src="./images/logo/Idea.png"></code>
-</p>
+  Started working in QA long syne.
   I'm still on the board.
   Up she rises!
   Full speed ahead!
@@ -42,19 +39,4 @@ The technology stack is as follows:
 </p>
 
 <a href="https://t.me/Botakozutebaliyeva"><img width="2%" title="Telegram" src="./images/logo/Telegram.png"></a>
-[BotakozUtebaliyeva](https://t.me/Botakozutebaliyeva) </br>
-
-<!--
-**utebaliyevabotakoz/utebaliyevabotakoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[Denis Litinskiy](https://t.me/DenisLeet) </br>
