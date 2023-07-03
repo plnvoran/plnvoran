@@ -12,10 +12,10 @@
 
   My graduation work consists:
 
-- [x] [Mobile project](https://github.com/utebaliyevabotakoz/project/tree/mobile)
-- [x] [REST-API](https://github.com/utebaliyevabotakoz/project_rest)
-- [x] [UI](https://github.com/utebaliyevabotakoz/project_ui)
-
+- [x] [Mobile project](https://github.com/plnvoran/MobileProjectQaGuRu)
+- [x] [REST-API](https://github.com/plnvoran/RestAPIDenis)
+- [x] [UI](https://github.com/plnvoran/TestCbr)
+  
 
 The technology stack is as follows:
 
