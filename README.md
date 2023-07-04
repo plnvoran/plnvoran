@@ -13,7 +13,7 @@
   My graduation work consists:
 
 - [x] [Mobile project](https://github.com/plnvoran/MobileProjectQaGuRu)
-- [x] [REST-API](https://github.com/plnvoran/RestAPIDenis)
+- [x] [REST-API](https://github.com/plnvoran/RestApiProjectQaGuRu)
 - [x] [UI](https://github.com/plnvoran/TestCbr)
   
 
