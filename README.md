@@ -4,15 +4,15 @@
 
 <p align="center">
  <code><img width="50%" title="Full speed ahead!" src="./images/logo/aivas.png"></code>
+
 </p>
 
-### Started working in QA long syne.
-### Well come on the board.
-### Up she rises! Full speed ahead!
+ <h4 align="center">  Started working in QA long syne! </h4>
+ <h4 align="center"> Well come on the board! </h4>
+ <h4 align="center">  Up she rises! Full speed ahead! </h4>
 
-
-  My last projects:
-  I have successfully completed the course at QA Automation school [QA.GURU](https://qa.guru). 
+### My last projects:
+### I have successfully completed the course at QA Automation school [QA.GURU](https://qa.guru). 
 
   My graduation work consists:
 
