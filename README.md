@@ -2,10 +2,11 @@
 
  <h2 align="center"> My name is Denis Litinskiy. I am a QA engineer.</h2>
 
-  Started working in QA long syne.
-  I'm still on the board.
-  Up she rises!
-  Full speed ahead!
+  <code><img width="50%" title="Full speed ahead!" src="./images/logo/aivas.png"></code>
+
+  ## Started working in QA long syne.
+  ## I'm on the board.
+  ## Up she rises! Full speed ahead!
 
   My last projects:
   I have successfully completed the course at QA Automation school [QA.GURU](https://qa.guru). 
