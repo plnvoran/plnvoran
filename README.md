@@ -29,7 +29,7 @@
 |:------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
 | <a href="https://www.atlassian.com/ru/software/jira"><img src="images/logo/Jira.svg" width="50" height="50"  alt="Jira"/></a> | <a href="https://github.com/allure-framework"><img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure"/></a> | <a href="https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>    | <a href="https://rest-assured.io/"><img src="images/logo/Ra.png" width="50" height="50"  alt="REST Assured"/></a> |
 
-The autotests in this project are written in `Java` using the `Selenide` framework.\
+The autotests in this project are written in `Java` using the `Selenide` framework.
 
 <a href="https://t.me/Botakozutebaliyeva"><img width="2%" title="Telegram" src="./images/logo/Telegram.svg"></a>
 [Denis Litinskiy](https://t.me/DenisLeet) </br>
