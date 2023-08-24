@@ -4,7 +4,6 @@
 
 <p align="center">
  <code><img width="50%" title="Full speed ahead!" src="./images/logo/aivas.png"></code>
-
 </p>
 
  <h4 align="center">  Started working in QA long syne! </h4>
@@ -14,15 +13,12 @@
 ### My last projects:
 ### I have successfully completed the course at QA Automation school [QA.GURU](https://qa.guru). 
 
-  My graduation work consists:
+### My graduation work consists:
 
-- [x] [UI](https://github.com/plnvoran/TestCbr)
-- [x] [REST-API](https://github.com/plnvoran/RestApiProjectQaGuRu)
+- [x] [UI](https://github.com/plnvoran/demo_ui_cbr)
+- [x] [REST-API](https://github.com/plnvoran/demo_rest_api_reqres)
 
-  
-
-The technology stack is as follows:
-
+### The technology stack is as follows:
 
 | Java                                                                                                      | IntelliJ Idea                                                                                                                 | GitHub                                                                                                     | JUnit 5                                                                                                           | Gradle                                                                                                     | Selenide                                                                                                         | Selenoid                                                                                                                  |  Jenkins                                                                                                           |
 |:----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------:|
