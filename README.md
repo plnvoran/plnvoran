@@ -16,31 +16,24 @@
 
   My graduation work consists:
 
-- [x] [Mobile project](https://github.com/plnvoran/MobileProjectQaGuRu)
-- [x] [REST-API](https://github.com/plnvoran/RestApiProjectQaGuRu)
 - [x] [UI](https://github.com/plnvoran/TestCbr)
+- [x] [REST-API](https://github.com/plnvoran/RestApiProjectQaGuRu)
+
   
 
 The technology stack is as follows:
 
-<p  align="center">
-  <code><img width="5%" title="IntelliJ IDEA" src="./images/logo/Idea.png"></code>
-  <code><img width="5%" title="Java" src="./images/logo/Java.png"></code>
-  <code><img width="5%" title="Selenide" src="./images/logo/Selenide.png"></code>
-  <code><img width="5%" title="Gradle" src="./images/logo/Gradle.png"></code>
-  <code><img width="5%" title="JUnit5" src="./images/logo/Junit5.png"></code>
-  <code><img width="5%" title="Allure Report" src="./images/logo/Allure.png"></code>
-  <code><img width="5%" title="Allure TestOps" src="./images/logo/TestOps.png"></code>
-  <code><img width="5%" title="Github" src="./images/logo/GitHub.png"></code>
-  <code><img width="5%" title="Jenkins" src="./images/logo/Jenkins.png"></code>
-  <code><img width="5%" title="Telegram" src="./images/logo/Telegram.png"></code>
-  <code><img width="5%" title="Browserstack" src="./images/logo/browserstack.png"></code>
-  <code><img width="5%" title="Appium-Inspector" src="./images/logo/appium-inspector.png"></code>
-  <code><img width="5%" title="Android Studio" src="./images/logo/AndroidStudio.png"></code>
-  <code><img width="5%" title="Appium" src="./images/logo/appium.png"></code>
-   <code><img width="5%" title="REST-Assured" src="./images/logo/rest-assured-logo.PNG"></code>
-  <code><img width="5%" title="Selenoid" src="./images/logo/selenoid-logo.PNG"></code>
-</p>
+
+| Java                                                                                                      | IntelliJ Idea                                                                                                                 | GitHub                                                                                                     | JUnit 5                                                                                                           | Gradle                                                                                                     | Selenide                                                                                                         | Selenoid                                                                                                                  |  Jenkins                                                                                                           |
+|:----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------:|
+| <a href="https://www.java.com/"><img src="images/logo/Java.svg" width="50" height="50"  alt="Java"/></a>  | <a id ="tech" href="https://www.jetbrains.com/idea/"><img src="images/logo/Idea.svg" width="50" height="50"  alt="IDEA"/></a> | <a href="https://github.com/"><img src="images/logo/GitHub.svg" width="50" height="50"  alt="Github"/></a> | <a href="https://junit.org/junit5/"><img src="images/logo/Junit5.svg" width="50" height="50"  alt="JUnit 5"/></a> | <a href="https://gradle.org/"><img src="images/logo/Gradle.svg" width="50" height="50"  alt="Gradle"/></a> | <a href="https://selenide.org/"><img src="images/logo/Selenide.svg" width="50" height="50"  alt="Selenide"/></a> | <a href="https://aerokube.com/selenoid/"><img src="images/logo/Selenoid.svg" width="50" height="50"  alt="Selenoid"/></a> |   <a href="https://www.jenkins.io/"><img src="images/logo/Jenkins.svg" width="50" height="50"  alt="Jenkins"/></a> |
+
+
+| Jira                                                                                                                          | Allure                                                                                                                     | Allure TestOps                                                                                                          | Rest Assured                                                                                                      |
+|:------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| <a href="https://www.atlassian.com/ru/software/jira"><img src="images/logo/Jira.svg" width="50" height="50"  alt="Jira"/></a> | <a href="https://github.com/allure-framework"><img src="images/logo/Allure.svg" width="50" height="50"  alt="Allure"/></a> | <a href="https://qameta.io/"><img src="images/logo/Allure_TO.svg" width="50" height="50"  alt="Allure TestOps"/></a>    | <a href="https://rest-assured.io/"><img src="images/logo/Ra.png" width="50" height="50"  alt="REST Assured"/></a> |
+
+The autotests in this project are written in `Java` using the `Selenide` framework.\
 
 <a href="https://t.me/Botakozutebaliyeva"><img width="2%" title="Telegram" src="./images/logo/Telegram.png"></a>
 [Denis Litinskiy](https://t.me/DenisLeet) </br>
