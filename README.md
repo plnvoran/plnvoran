@@ -35,5 +35,5 @@ The technology stack is as follows:
 
 The autotests in this project are written in `Java` using the `Selenide` framework.\
 
-<a href="https://t.me/Botakozutebaliyeva"><img width="2%" title="Telegram" src="./images/logo/Telegram.png"></a>
+<a href="https://t.me/Botakozutebaliyeva"><img width="2%" title="Telegram" src="./images/logo/Telegram.svg"></a>
 [Denis Litinskiy](https://t.me/DenisLeet) </br>
